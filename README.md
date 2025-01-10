@@ -7,10 +7,11 @@ Durante o desenvolvimento, foi utilizado o conjunto de dados MNIST para treinar 
 
 ## Bibliotecas e Frameworks Utilizados
 
-- TensorFlow: Para a construção, treinamento e avaliação do modelo de Machine Learning.
+- TensorFlow e Keras: Para a construção, treinamento e avaliação do modelo de Machine Learning.
 - Matplotlib e Seaborn: Para a visualização de métricas e criação de gráficos.
 - Pandas e NumPy: Para manipulação e análise de dados.
 - TensorBoard: Para monitoramento do treinamento e visualização das métricas.
+- IO e OS: Para manipulação de arquivos e diretórios.
 
   ## Notebook
 

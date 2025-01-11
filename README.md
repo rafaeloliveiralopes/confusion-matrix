@@ -24,7 +24,7 @@ O notebook utilizado no projeto está disponível neste repositório. Ele conté
 3. A análise detalhada das métricas de avaliação, incluindo a matriz de confusão.
 4. Implementação de métodos automáticos para cálculo de acurácia utilizando a biblioteca Scikit-learn.
 
-## Conclusão
+## Resultados
 
 O modelo desenvolvido atingiu uma acurácia de **99.80%** no conjunto de validação, demonstrando um desempenho excelente ao classificar os dígitos do dataset MNIST. Durante a análise, a matriz de confusão revelou pequenos erros de classificação entre dígitos similares (como 4 e 9), destacando a necessidade de:
 
@@ -34,7 +34,7 @@ O modelo desenvolvido atingiu uma acurácia de **99.80%** no conjunto de valida�
 
 Adicionalmente, foi implementado um cálculo automatizado de métricas diretamente da matriz de confusão utilizando a biblioteca **Scikit-learn**, simplificando o processo de análise.
 ![image](https://github.com/user-attachments/assets/bd0cf1d0-61d4-4374-b0ed-a20be291650c)
-
+### Matriz de confuzão
 ![Histograma do TensorBoard](https://github.com/user-attachments/assets/dbd901cc-b49f-40cd-85e6-9d2c702b4aeb)
 
 Essa experiência reforçou a importância de métricas de avaliação na criação de modelos confiáveis e eficientes. O aprendizado adquirido será aplicado em projetos futuros, fortalecendo minha base técnica em Machine Learning.

@@ -1,6 +1,6 @@
 # confusion-matrix
 
-## Modelos de Machine Learning: Métricas de Avaliação de Desempenho
+## Machine Learning - Cálculos de Métricas de Avaliação de Aprendizado
 
 Este projeto foi desenvolvido como parte do curso "Modelos de Machine Learning: Métricas de Avaliação de Desempenho", oferecido pela DIO em parceria com a empresa BairesDev. O objetivo principal foi aprofundar os conhecimentos sobre as principais métricas de avaliação utilizadas em modelos de aprendizado supervisionado, com foco na análise de classificadores.
 
